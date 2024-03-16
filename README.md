@@ -1,2 +1,2 @@
 # House-Price-Prediction
-ML Model | Logistic Regression | Data Cleaning | Preprecessing | Visualization
+ML Model | Linear Regression | Data Cleaning | Preprecessing | Visualization
